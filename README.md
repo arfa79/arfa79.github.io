@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=arfa79&style=flat&color=green" width="120" alt="views counter"/>
 <div>
 <h3 align="center">I am a committed Backend Developer proficient in Python, PostgreSQL, Django, Linux, Docker, Git, and REST API development. My true passion lies in crafting websites that effortlessly blend aesthetics with functionality to deliver exceptional user experiences</h3>
-<h3 align="center">find me in:</h3>
+<h3 align="center">Find me in:</h3>
 <p align="center">
 <a href="https://twitter.com/arfa79_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alirezaFeyzabadifarahani" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/alireza-feyzabadi-farahani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alirezafeyzabadifarahani" height="30" width="40" /></a>
